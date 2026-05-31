@@ -1,71 +1,87 @@
-# Kirubha Shankar A
+<h1 align="center">Kirubha Shankar A</h1>
 
-🚀 Aspiring Software Engineer | Full-Stack Developer | AI Enthusiast  
-🎓 Computer Science & Engineering Student  
-🌱 Passionate about building intelligent, scalable, and impactful software solutions  
+<h3 align="center">🚀 Aspiring Software Engineer | Full-Stack Developer | AI Enthusiast</h3>
 
----
-
-## 💡 About Me
-- 🔭 Currently working on Full-Stack & AI-based projects  
-- 🧠 Strong interest in Machine Learning, Backend Systems & Scalable Web Apps  
-- 💻 Experienced in building end-to-end applications using React.js, Spring Boot, and MySQL  
-- ⚙️ Love solving real-world problems through clean and efficient code  
-- 🤝 Open to collaboration on innovative tech projects  
+<p align="center">
+🎓 Computer Science & Engineering Student | 💡 Problem Solver | ⚙️ Builder of Scalable Systems
+</p>
 
 ---
 
-## 🚀 Technical Skills
+## 🌟 About Me
 
-**Programming Languages:**  
-Java | C++ | Python | SQL  
-
-**Web Development:**  
-React.js | HTML | CSS | JavaScript | Spring Boot | REST APIs  
-
-**AI / Data:**  
-Machine Learning | Data Processing | Data Visualization | Exploratory Data Analysis (EDA)  
-
-**Tools & Platforms:**  
-Git | GitHub | MySQL | VS Code  
+- 🔭 Working on Full-Stack & AI-powered real-world projects  
+- 🧠 Passionate about Machine Learning, Backend Systems & Scalable Web Apps  
+- 💻 Experience building end-to-end applications using React.js, Spring Boot & MySQL  
+- 🚀 Focused on writing clean, efficient, and production-ready code  
+- 🤝 Open to collaboration on impactful tech ideas  
 
 ---
 
-## 📌 Featured Projects
+## 🧠 Tech Stack
+
+### 💻 Programming
+`Java` • `C++` • `Python` • `SQL`
+
+### 🌐 Web Development
+`React.js` • `Spring Boot` • `REST APIs` • `HTML` • `CSS` • `JavaScript`
+
+### 🤖 AI / Data
+`Machine Learning` • `Data Processing` • `Data Visualization` • `EDA`
+
+### 🛠 Tools
+`Git` • `GitHub` • `MySQL` • `VS Code`
+
+---
+
+## 🚀 Featured Projects
 
 ### 🌾 CropzyAI
-AI-powered smart farming platform for crop recommendation, disease detection, crop rotation planning, and multilingual support.  
-Tech: React.js, Python, TensorFlow, Scikit-learn  
-
-### 🥗 VeeGo
-Full-stack vegan recipe discovery application with user-friendly UI and API integration.  
-Tech: React.js, Spring Boot, MySQL  
-
-### 🚜 FarmChainX
-Farm-to-fork agricultural supply chain system ensuring product traceability and transparency.  
-Tech: React.js, Spring Boot, MySQL  
+AI-powered farming assistant for crop recommendation, disease detection, crop rotation planning & multilingual support.  
+**Tech:** React.js • Python • TensorFlow • Scikit-learn  
 
 ---
 
-## 🏆 Achievements & Activities
-- 🧩 Participated in multiple hackathons (Iamneo Neo Hack, SRCAS Hackathon)  
-- ⚡ Built full-stack and AI-based projects during academic and self-learning journey  
-- 📈 Continuously improving problem-solving skills in Data Structures & Algorithms  
+### 🥗 VeeGo
+Full-stack vegan recipe platform for discovering and exploring healthy recipes with smooth UI and API integration.  
+**Tech:** React.js • Spring Boot • MySQL  
+
+---
+
+### 🚜 FarmChainX
+Farm-to-fork traceability system ensuring transparency between farmers and consumers through digital tracking.  
+**Tech:** React.js • Spring Boot • MySQL  
+
+---
+
+## 🏆 Highlights
+
+- ⚡ Built multiple full-stack + AI-based real-world projects  
+- 🧩 Participated in hackathons (Iamneo Neo Hack, SRCAS Hackathon)  
+- 📈 Strong focus on Data Structures, Backend Design & Problem Solving  
+- 🌱 Continuously learning new technologies and system design concepts  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KIRUBHA-SHANKAR-A&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KIRUBHA-SHANKAR-A&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRUBHA-SHANKAR-A&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-- 📧 Email: kirubhashankar46@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 💻 GitHub: https://github.com/KIRUBHA-SHANKAR-A  
+<p align="center">
+📧 <b>Email:</b> kirubhashankar46@gmail.com <br>
+💼 <b>LinkedIn:</b> https://linkedin.com/in/your-link <br>
+💻 <b>GitHub:</b> https://github.com/KIRUBHA-SHANKAR-A
+</p>
 
 ---
 
-💡 *“Building technology that creates real-world impact through innovation and intelligence.”*
+<p align="center">
+💡 <i>"Turning ideas into intelligent and impactful software solutions."</i>
+</p>
