@@ -1,6 +1,6 @@
 <h1 align="center">Kirubha Shankar A</h1>
 
-<h3 align="center">🚀 Aspiring Software Engineer | Full-Stack Developer</h3>
+<h3 align="center">Aspiring Software Engineer | Full-Stack Developer</h3>
 
 <p align="center">
 🎓 Computer Science & Engineering Student | 💡 Problem Solver | ⚙️ Builder of Scalable Systems
