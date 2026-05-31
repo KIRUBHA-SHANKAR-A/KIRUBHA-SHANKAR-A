@@ -1,6 +1,6 @@
 <h1 align="center">Kirubha Shankar A</h1>
 
-<h3 align="center">🚀 Aspiring Software Engineer | Full-Stack Developer | AI Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Software Engineer | Full-Stack Developer</h3>
 
 <p align="center">
 🎓 Computer Science & Engineering Student | 💡 Problem Solver | ⚙️ Builder of Scalable Systems
@@ -60,15 +60,6 @@ Farm-to-fork traceability system ensuring transparency between farmers and consu
 - 🧩 Participated in hackathons (Iamneo Neo Hack, SRCAS Hackathon)  
 - 📈 Strong focus on Data Structures, Backend Design & Problem Solving  
 - 🌱 Continuously learning new technologies and system design concepts  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KIRUBHA-SHANKAR-A&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRUBHA-SHANKAR-A&layout=compact&theme=tokyonight" height="170"/>
-</p>
 
 ---
 
