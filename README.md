@@ -67,7 +67,7 @@ Farm-to-fork traceability system ensuring transparency between farmers and consu
 
 <p align="center">
 📧 <b>Email:</b> kirubhashankar46@gmail.com <br>
-💼 <b>LinkedIn:</b> https://linkedin.com/in/your-link <br>
+💼 <b>LinkedIn:</b> https://www.linkedin.com/in/kirubha-shankar-a-13760b2a1/ <br>
 💻 <b>GitHub:</b> https://github.com/KIRUBHA-SHANKAR-A
 </p>
 
