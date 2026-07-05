@@ -21,16 +21,13 @@
 ## 🧠 Tech Stack
 
 ### 💻 Programming
-`Java` • `C++` • `Python` • `SQL`
+`Java` • `C++` • `SQL`
 
 ### 🌐 Web Development
-`React.js` • `Spring Boot` • `REST APIs` • `HTML` • `CSS` • `JavaScript`
+`React.js` • `Spring Boot` • `REST APIs` • `HTML` • `CSS` 
 
 ### 🤖 AI / Data
-`Machine Learning` • `Data Processing` • `Data Visualization` • `EDA`
-
-### 🛠 Tools
-`Git` • `GitHub` • `MySQL` • `VS Code`
+`Machine Learning Basics` • `Data Processing` • `Data Visualization` • `EDA`
 
 ---
 
